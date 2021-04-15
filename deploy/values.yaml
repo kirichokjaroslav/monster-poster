@@ -1,0 +1,26 @@
+volumes:
+  - name: data
+    mount: /app/data
+    type: pvc
+    size: 8Gi
+
+extraContainers:
+  - name: app
+    image: backend
+    ports:
+    - name: python
+      containerPort: 9000
+    livenessProbe:
+      tcpSocket:
+        port: 9000
+    readinessProbe:
+      tcpSocket:
+        port: 9000
+    resources:
+      requests:
+        cpu: 256m
+        memory: 512Mi
+      limits:
+        cpu: 1000m
+        memory: 2048Mi
+

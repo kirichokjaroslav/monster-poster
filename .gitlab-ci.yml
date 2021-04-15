@@ -1,0 +1,10 @@
+include:
+  - project: 'common-ci/ci'
+    ref: master
+    file: 'templates/ci-template.yml'
+
+variables:
+    TEST: "false"
+    LOCAL_DEPLOY: "true"
+    PRODUCTION_DEPLOY: "false"
+

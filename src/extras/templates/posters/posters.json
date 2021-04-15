@@ -1,0 +1,242 @@
+{
+    "1": {
+        "image": "5d84eabfc3384fd78a25bff32991a787.jpg",
+        "items": {
+            "photography": {
+                "x": 0,
+                "y": 20
+            },
+            "name": {
+                "color": "#304527",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "x": 0,
+                "y": 365
+            },
+            "congratulations": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 100,
+                "text": "Поздравляем!",
+                "x": 0,
+                "y": 470
+            },
+            "summary": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "text": "Ты с нами уже",
+                "x": 0,
+                "y": 595
+            },
+            "years": {
+                "count": {
+                    "color": "#ffff00",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 170,
+                    "x": 0,
+                    "y": 690
+                },
+                "below": {
+                    "color": "#ffffff",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 40,
+                    "x": 0,
+                    "y": 855
+                }
+            }
+        }
+    },
+    "2": {
+        "image": "7c903e94f0e24368a36eb547a05a77f5.jpg",
+        "items": {
+            "photography": {
+                "x": 0,
+                "y": 20
+            },
+            "name": {
+                "color": "#5A2333",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "x": 0,
+                "y": 365
+            },
+            "congratulations": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 100,
+                "text": "Поздравляем!",
+                "x": 0,
+                "y": 470
+            },
+            "summary": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "text": "Ты с нами уже",
+                "x": 0,
+                "y": 595
+            },
+            "years": {
+                "count": {
+                    "color": "#ffff00",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 170,
+                    "x": 0,
+                    "y": 690
+                },
+                "below": {
+                    "color": "#ffffff",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 40,
+                    "x": 0,
+                    "y": 855
+                }
+            }
+        }
+    },
+    "3": {
+        "image": "78a56fc4d9ad482aa6a3162fc2570b5d.jpg",
+        "items": {
+            "photography": {
+                "x": 0,
+                "y": 20
+            },
+            "name": {
+                "color": "#174444",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "x": 0,
+                "y": 365
+            },
+            "congratulations": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 100,
+                "text": "Поздравляем!",
+                "x": 0,
+                "y": 470
+            },
+            "summary": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "text": "Ты с нами уже",
+                "x": 0,
+                "y": 595
+            },
+            "years": {
+                "count": {
+                    "color": "#ffff00",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 170,
+                    "x": 0,
+                    "y": 690
+                },
+                "below": {
+                    "color": "#ffffff",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 40,
+                    "x": 0,
+                    "y": 855
+                }
+            }
+        }
+    },
+    "4": {
+        "image": "b81ba5a84dc64dceb09c1a80b328bd4a.jpg",
+        "items": {
+            "photography": {
+                "x": 0,
+                "y": 20
+            },
+            "name": {
+                "color": "#592518",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "x": 0,
+                "y": 365
+            },
+            "congratulations": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 100,
+                "text": "Поздравляем!",
+                "x": 0,
+                "y": 470
+            },
+            "summary": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "text": "Ты с нами уже",
+                "x": 0,
+                "y": 595
+            },
+            "years": {
+                "count": {
+                    "color": "#ffff00",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 170,
+                    "x": 0,
+                    "y": 690
+                },
+                "below": {
+                    "color": "#ffffff",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 40,
+                    "x": 0,
+                    "y": 855
+                }
+            }
+        }
+    },
+    "5": {
+        "image": "dc5b5d7e268e4768a676d0e802a030ca.jpg",
+        "items": {
+            "photography": {
+                "x": 0,
+                "y": 20
+            },
+            "name": {
+                "color": "#3A2251",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "x": 0,
+                "y": 365
+            },
+            "congratulations": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 100,
+                "text": "Поздравляем!",
+                "x": 0,
+                "y": 470
+            },
+            "summary": {
+                "color": "#ffffff",
+                "font-family": "Gilroy-ExtraBold",
+                "font-size": 60,
+                "text": "Ты с нами уже",
+                "x": 0,
+                "y": 595
+            },
+            "years": {
+                "count": {
+                    "color": "#ffff00",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 170,
+                    "x": 0,
+                    "y": 690
+                },
+                "below": {
+                    "color": "#ffffff",
+                    "font-family": "Gilroy-Black",
+                    "font-size": 40,
+                    "x": 0,
+                    "y": 855
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+.v--modal-overlay .v--modal {
+  background: #fff;
+  border-radius: 10px;
+  position: relative;
+}
+
+.close {
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  right: 17px;
+  color: @global-color;
+
+  &:hover {
+    color: lighten(@global-color, 50%);
+  }
+}
+
+.modal-content {
+  padding: 40px 60px;
+}
+
+.v--modal-overlay .v--modal-box {
+  overflow: visible;
+}

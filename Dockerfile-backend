@@ -1,0 +1,19 @@
+FROM python:3.7-slim
+
+RUN true \
+  && apt update -y -qq \
+  && DEBIAN_FRONTEND=noninteractive apt install --no-install-recommends -y procps bash \
+  && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt /requirements.txt
+
+RUN true \
+  && pip install -r /requirements.txt \
+  && rm -rf /root/.cache
+
+COPY src /app
+COPY entrypoint.sh /entrypoint.sh
+
+WORKDIR /app
+
+CMD [ "/entrypoint.sh"]
