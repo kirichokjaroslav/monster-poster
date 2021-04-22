@@ -1,21 +1,13 @@
-## Monster Poster
+## Posterify
 
 **: About :**
 
-A small service that congratulates the employees of the company on the anniversary of work in the company.
-
-**En:**
-
-A small service that congratulates employees on the anniversary of their work in the company. What is he doing takes a photo of the employee, combines it with a greeting poster, and when day **X** arrives, - he sends this poster to the general channel with a **Slack** messenger.
-
-**Ru:**
-
-Небольшой сервис, который поздравляет сотрудников с годовщиной работы в компании. Что он делает? Берет фото сотрудника, совмещает с открыткой и когда наступает день **Х**, - отправляет отрытку в главный канал **Slack** мессенджера.
+A tiny microservice congratulating employees on the anniversary of their work in the company. What is he doing? It takes a previously uploaded employee's photo, combines it with a «congratulating template» and when the day **x** comes, - sends the resulting poster to the general channel the **slack** messenger.
 
 **: How to use :**
 
 There are several ways to start the service:
-- Manual: first
+- Manual: way - I
 
  1. After repository cloning, go to the service directory. Using any tool for managing a virtual environment, create it:
 
@@ -34,7 +26,7 @@ There are several ways to start the service:
             python launch.py -r [--release], or -h
 
 
-- Manual: second
+- Manual: way - II
 
  1. For greater convenience, made an automatic installation and configuration file. Just need to launch:
 
