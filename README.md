@@ -2,7 +2,7 @@
 
 **: About :**
 
-A tiny microservice congratulating employees on the anniversary of their work in the company. What is he doing? It takes a previously uploaded employee's photo, combines it with a «congratulating template» and when the day **x** comes, - sends the resulting poster to the general channel the **slack** messenger.
+A tiny microservice congratulating employees on the anniversary of their work in the company. What is he doing? It takes a previously uploaded employee's photo, combines it with a «congratulating template» and when the day **«x»** comes, - sends the resulting poster to the general channel the **«slack»** messenger.
 
 **: How to use :**
 
