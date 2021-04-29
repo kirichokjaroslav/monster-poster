@@ -1,4 +1,4 @@
-## Posterify
+## Posterino
 
 **: About :**
 
